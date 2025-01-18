@@ -12,7 +12,7 @@ Features analyzed include price, trading volume, opening/closing prices, and vol
 
 Creation of new features that may improve the performance of predictive models, such as Average_Price, Daily_Range, and rolling statistics like Rolling_Mean, Rolling_Std.
 
-3.  Potential Building of Price prediction Model.
+3.  Potential building of Price Prediction Model.
 
 # Dataset Overview
 The "Bitcoin Price | Daily Price | Weekly Update" dataset is downloaded directly from Kaggle. It provides weekly updates on Bitcoin prices along with related information to aid in cryptocurrency market analysis and trend monitoring. The dataset contains historical Bitcoin prices over several weeks, including key details such as opening price, closing price, highest price, lowest price, and trading volume.
@@ -33,4 +33,4 @@ https://www.kaggle.com/datasets/dannyrevaldo/bitcoin-price-weekly-update
 # Technology Used
 * Python
 * Google Colab
-* pandas, numpy, matplotlib, seaborn, plotly
+* pandas, numpy, matplotlib, seaborn, plotly, statsmodel
